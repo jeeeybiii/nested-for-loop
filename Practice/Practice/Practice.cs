@@ -106,13 +106,14 @@
             for (int i = 0; i < lottoArray.Length; i++)
             {
                 randomGenerator = rand.Next(1, 7);
-                for(int k = 0; k <= i; k++)
+                for(int k = 0; k < i; k++)
                 {
                     while (lottoArray[k] == randomGenerator)
                     {
                         Console.WriteLine($"DUPLICATE HAS OCCURED: {lottoArray[k]}");
                         randomGenerator = rand.Next(1, 7);
-                        
+                        //restart duplicate checking
+                        k = 0;
                     }
                     
                 }
