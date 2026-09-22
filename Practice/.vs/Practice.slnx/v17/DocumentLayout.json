@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\nested-for-loop\\Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88CBA8FA-318D-42FE-98D9-61D47246972E}|Practice\\Practice.csproj|h:\\nested-for-loop\\practice\\practice\\practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88CBA8FA-318D-42FE-98D9-61D47246972E}|Practice\\Practice.csproj|solutionrelative:practice\\practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Practice.cs",
+              "DocumentMoniker": "H:\\nested-for-loop\\Practice\\Practice\\Practice.cs",
+              "RelativeDocumentMoniker": "Practice\\Practice.cs",
+              "ToolTip": "H:\\nested-for-loop\\Practice\\Practice\\Practice.cs",
+              "RelativeToolTip": "Practice\\Practice.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAgwHUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T21:38:53.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

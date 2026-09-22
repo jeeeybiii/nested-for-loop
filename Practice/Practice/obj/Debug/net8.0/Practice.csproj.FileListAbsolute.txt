@@ -29,3 +29,18 @@ C:\Users\macut\OneDrive\Desktop\Studio 1\Version Control\nested-for-loop\Practic
 C:\Users\macut\OneDrive\Desktop\Studio 1\Version Control\nested-for-loop\Practice\Practice\obj\Debug\net8.0\Practice.genruntimeconfig.cache
 C:\Users\macut\OneDrive\Desktop\Studio 1\Version Control\nested-for-loop\Practice\Practice\obj\Debug\net8.0\ref\Practice.dll
 C:\Users\macut\OneDrive\Desktop\Studio 1\Version Control\nested-for-loop\Practice\Practice\obj\Debug\net8.0\Practice.csproj.Up2Date
+H:\nested-for-loop\Practice\Practice\bin\Debug\net8.0\Practice.exe
+H:\nested-for-loop\Practice\Practice\bin\Debug\net8.0\Practice.deps.json
+H:\nested-for-loop\Practice\Practice\bin\Debug\net8.0\Practice.runtimeconfig.json
+H:\nested-for-loop\Practice\Practice\bin\Debug\net8.0\Practice.dll
+H:\nested-for-loop\Practice\Practice\bin\Debug\net8.0\Practice.pdb
+H:\nested-for-loop\Practice\Practice\obj\Debug\net8.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+H:\nested-for-loop\Practice\Practice\obj\Debug\net8.0\Practice.AssemblyInfoInputs.cache
+H:\nested-for-loop\Practice\Practice\obj\Debug\net8.0\Practice.AssemblyInfo.cs
+H:\nested-for-loop\Practice\Practice\obj\Debug\net8.0\Practice.csproj.CoreCompileInputs.cache
+H:\nested-for-loop\Practice\Practice\obj\Debug\net8.0\Practice.sourcelink.json
+H:\nested-for-loop\Practice\Practice\obj\Debug\net8.0\Practice.dll
+H:\nested-for-loop\Practice\Practice\obj\Debug\net8.0\refint\Practice.dll
+H:\nested-for-loop\Practice\Practice\obj\Debug\net8.0\Practice.pdb
+H:\nested-for-loop\Practice\Practice\obj\Debug\net8.0\Practice.genruntimeconfig.cache
+H:\nested-for-loop\Practice\Practice\obj\Debug\net8.0\ref\Practice.dll
