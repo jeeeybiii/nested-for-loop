@@ -103,20 +103,22 @@
             int randomGenerator;
             Random rand = new Random();
             int[] lottoArray = new int[6];
+            int k;
             for (int i = 0; i < lottoArray.Length; i++)
             {
+                k = 0;
                 randomGenerator = rand.Next(1, 7);
-                for(int k = 0; k < i; k++)
+                while(k < i)
                 {
+                    
                     while (lottoArray[k] == randomGenerator)
                     {
-                        Console.WriteLine($"DUPLICATE HAS OCCURED: {lottoArray[k]}");
                         randomGenerator = rand.Next(1, 7);
-                        //restart duplicate checking
                         k = 0;
                     }
-                    
+                    k++;
                 }
+                
                 lottoArray[i] = randomGenerator;
             }
 
